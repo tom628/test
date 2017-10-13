@@ -4,4 +4,6 @@ namespace test {
 	
 	int foo { return 1; };
 	float bar { return 1.0f; };
+
+	int secondFunction{ return 2; };
 }
